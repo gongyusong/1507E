@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.example.topbartest.TopBar xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="40dp"
+    app:left_bg="@drawable/blue_button"
+    app:left_text="返回"
+    app:left_text_color="#FFFFFF"
+    app:right_bg="@drawable/blue_button"
+    app:right_text="更多"
+    app:right_text_color="#FFFFFF"
+    app:title_text="自定义标题"
+    app:title_text_color="#123412"
+    app:title_text_size="10sp">
+
+</com.example.topbartest.TopBar>
